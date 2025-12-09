@@ -1,1 +1,1 @@
-put your test videos in to this folder
+runs/video_detections/detected_filename.mp4

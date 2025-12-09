@@ -1,0 +1,7 @@
+path:
+
+train: train
+val: valid
+
+names:
+  0: drone
